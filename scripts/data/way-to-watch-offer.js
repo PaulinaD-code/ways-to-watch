@@ -2,7 +2,7 @@ export const waysToWatch = [
   {
     id:"01",
     title: 'Odtwarzacze multimdialne',
-    image: '../img1/wayTowatch-icons/media-player.webp',
+    image: '../wayTowatch-icons/media-player.webp',
     imageActive:'../wayTowatch-icons/media-player-active.webp',
     descriptionTitle: 'PLUG AND PLAY',
     offerDescription: 'Dzięki najnowszym odtwarzaczom i przystawkom multimedialnym możesz szybko, prosto i tanio korzystać z serwisu Netflix na telewizorze.',
