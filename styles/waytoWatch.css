@@ -119,7 +119,7 @@ body{
 }
 
 .way-to-watch-answers-main-container{
-    background-image: url('/wayTowatch-icons/device-panel-background2.jpg');
+    background-image: url('wayTowatch-icons/device-panel-background2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
