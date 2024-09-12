@@ -1,0 +1,228 @@
+@media (min-width: 816px) and (max-width: 1060px){
+  .offer--visible{
+      width: 100%;
+      max-width: 1060px;
+      display: flex;
+      justify-content: space-between;
+       margin: 0 auto 0;
+      padding: 0 1em;
+  }
+}
+
+@media(min-width:401px) and (max-width: 815px){
+
+  .page--title{
+      width:785px;
+      max-width:785px;
+      margin: 0 auto 20px auto;
+      font-size: 43px;
+      font-weight: 800;
+      text-align: center;
+      color: #fff;
+      line-height: 1;
+  }
+
+  .wayTowatch--container{
+      overflow: auto;
+  }
+
+  .way{
+      font-size: 11px;  
+  }
+
+  .offer--title{
+      max-width: 510px;
+      border-left: 2px solid #e50914;
+      padding-left: 1em;
+      margin: 1em 0 .5em;
+      font-size: 30px;
+      font-weight: 300;
+      line-height: 1;
+  }
+  
+  .offer--description,
+  .netflix--description{
+      font-size: 12px;
+      line-height: 1.6;
+      font-weight: 400;
+  }
+
+  .offer-advertisement-10{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      width: 48%;
+      max-width: 510px;
+      color: #fff;
+  }
+
+  .extra--offer{
+      display: flex;
+      flex-direction: column;
+      width: 98%;
+      margin: 1em 0 1em;
+  }
+
+  .netflix--description{
+      font-size: 12px;
+      line-height: 1.6;
+      font-weight: 400;
+  }
+}
+
+@media (max-width:600px){
+  .page--title{
+      font-size: 38px; 
+  }
+
+  .offer--visible{
+      width: 100%;
+      display: flex;
+      flex-direction:column;
+      justify-content: center;
+      margin: 0 0 0 0;
+      position: relative;
+      padding: 0 1em;
+  }
+
+  .offer-advertisement{
+      width: 98%;
+      margin:0;
+      padding:0 1em;
+  }
+
+  .offer--title{
+      width: 98%;
+      font-size: 27px;
+      padding: 0 1em 0 1em;
+  }
+
+  .offer--description{
+      width: 100%;
+      font-size: 12px;
+      padding: 0 1em 0 0 ;;
+  }
+
+  .partners--logos{
+      width: 100%;
+  }
+
+  .second--background{
+      height: 63%;
+  }
+
+  .wayTowatch--container{
+      overflow: auto;
+  }
+
+  .offer--logo{
+      width: 600px;
+      height: 404px;
+  }
+  
+  .logo--section{
+      display: flex;
+  }
+
+  .partners--logos{
+      width: 400px;
+      height: 404px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      column-gap: 1px;
+      row-gap: 1px;
+      margin: 1em auto .5em;
+  }
+  
+  .logo{
+      width: 200px;
+      height: 202px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: black;
+  }
+  
+  .logo--img{
+      width: 50%;
+      height: auto;
+  }
+  
+  .empty{
+      width: 200px;
+      height: 202px;
+      background-color: black;
+      opacity: 60%;
+  }
+
+  .extra--offer{
+      display: flex;
+      margin: 1em 0;
+  }
+
+  .offer-advertisement-10{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 95%;
+      max-width: 510px;
+      color: #fff;
+  }
+
+  .netflix--description{
+      font-size: 12px;
+      line-height: 1.6;
+      font-weight: 400;
+  }
+  
+  .offers--logo{
+      margin: 0 auto;
+  }
+
+  .logos-10{
+      width: 400px;
+      height: 404px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+      column-gap: 1px;
+      row-gap: 1px;
+      margin: 0 auto;
+  }
+
+  .logo10{
+      width:199px;
+      height: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: black;
+  }
+
+  .logo6--img{
+      width: 40%;
+      height: auto;
+  }
+
+  .logos-6{
+      width: 400px;
+      height: 404px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr;
+      column-gap: 1px;
+      row-gap: 1px;
+      margin: 0 auto;
+  }
+  
+  .logo6{
+      width:199px;
+      height: 134px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: black;
+  } 
+}
