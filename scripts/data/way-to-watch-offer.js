@@ -55,7 +55,7 @@ export const waysToWatch = [
       logo10: 'wayTowatch-icons/1024px-xiaomi-logo-svg.webp',
     },
     extraOffer: true,
-    extraOfferImg: '../wayTowatch-icons/nrtv.webp',
+    extraOfferImg: 'wayTowatch-icons/nrtv.webp',
     extraOfferTitle: 'WIĘCEJ INFORMACJI',
     extraOfferDescription: 'Chcesz mieć telewizor Smart TV stworzony z myślą o serwisie Netflix? Szukaj telewizorów z logo „Telewizor polecany przez Netflix',
     showOffer(){
