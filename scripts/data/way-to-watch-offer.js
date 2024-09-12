@@ -37,8 +37,8 @@ export const waysToWatch = [
   {
     id:"02",
     title: 'Konsole do gier',
-    image: '../img1/wayTowatch-icons/hdtv.webp',
-    imageActive:'../img1/wayTowatch-icons/hdtv-active.webp',
+    image: '../wayTowatch-icons/hdtv.webp',
+    imageActive:'../wayTowatch-icons/hdtv-active.webp',
     descriptionTitle: 'WBUDOWANE POŁĄCZENIE',
     offerDescription: 'Telewizory Smart TV mają zainstalowaną aplikację Netflix — wystarczy je włączyć i zacząć oglądać. Nie trzeba żadnego dodatkowego sprzętu. ',
     partnersLogo: true,
@@ -55,7 +55,7 @@ export const waysToWatch = [
       logo10: 'wayTowatch-icons/1024px-xiaomi-logo-svg.webp',
     },
     extraOffer: true,
-    extraOfferImg: '../img1/wayTowatch-icons/nrtv.webp',
+    extraOfferImg: '../wayTowatch-icons/nrtv.webp',
     extraOfferTitle: 'WIĘCEJ INFORMACJI',
     extraOfferDescription: 'Chcesz mieć telewizor Smart TV stworzony z myślą o serwisie Netflix? Szukaj telewizorów z logo „Telewizor polecany przez Netflix',
     showOffer(){
@@ -101,8 +101,8 @@ export const waysToWatch = [
   {
     id:"03",
     title: 'Odtwarzacze multimdialne',
-    image: '../img1/wayTowatch-icons/game-console.webp',
-    imageActive:'../img1/wayTowatch-icons/game-console-active.webp',
+    image: '../wayTowatch-icons/game-console.webp',
+    imageActive:'../wayTowatch-icons/game-console-active.webp',
     descriptionTitle: 'DOBRE DO GIER DOBRE DO FILMÓW',
     offerDescription: 'Materiały z serwisu Netflix możesz oglądać również na konsolach do gier.',
     partnersLogo: true,
