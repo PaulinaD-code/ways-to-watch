@@ -2,8 +2,8 @@ export const waysToWatch = [
   {
     id:"01",
     title: 'Odtwarzacze multimdialne',
-    image: '../wayTowatch-icons/media-player.webp',
-    imageActive:'../wayTowatch-icons/media-player-active.webp',
+    image: 'wayTowatch-icons/media-player.webp',
+    imageActive:'wayTowatch-icons/media-player-active.webp',
     descriptionTitle: 'PLUG AND PLAY',
     offerDescription: 'Dzięki najnowszym odtwarzaczom i przystawkom multimedialnym możesz szybko, prosto i tanio korzystać z serwisu Netflix na telewizorze.',
     partnersLogo: true,
@@ -37,8 +37,8 @@ export const waysToWatch = [
   {
     id:"02",
     title: 'Konsole do gier',
-    image: '../wayTowatch-icons/hdtv.webp',
-    imageActive:'../wayTowatch-icons/hdtv-active.webp',
+    image: 'wayTowatch-icons/hdtv.webp',
+    imageActive:'wayTowatch-icons/hdtv-active.webp',
     descriptionTitle: 'WBUDOWANE POŁĄCZENIE',
     offerDescription: 'Telewizory Smart TV mają zainstalowaną aplikację Netflix — wystarczy je włączyć i zacząć oglądać. Nie trzeba żadnego dodatkowego sprzętu. ',
     partnersLogo: true,
@@ -101,8 +101,8 @@ export const waysToWatch = [
   {
     id:"03",
     title: 'Odtwarzacze multimdialne',
-    image: '../wayTowatch-icons/game-console.webp',
-    imageActive:'../wayTowatch-icons/game-console-active.webp',
+    image: 'wayTowatch-icons/game-console.webp',
+    imageActive:'wayTowatch-icons/game-console-active.webp',
     descriptionTitle: 'DOBRE DO GIER DOBRE DO FILMÓW',
     offerDescription: 'Materiały z serwisu Netflix możesz oglądać również na konsolach do gier.',
     partnersLogo: true,
@@ -143,8 +143,8 @@ export const waysToWatch = [
   {
     id:"04",
     title: 'Dekodery',
-    image: '../wayTowatch-icons/mvpd.webp',
-    imageActive:'../wayTowatch-icons/mvpd-active.webp',
+    image: 'wayTowatch-icons/mvpd.webp',
+    imageActive:'wayTowatch-icons/mvpd-active.webp',
     descriptionTitle: 'ŁATWE JAK ZMIANA KANAŁU ',
     offerDescription: 'Teraz możesz przełączać między kanałami telewizyjnymi a serwisem Netflix, korzystając z jednego dekodera. Serwis Netflix jest dostępny w ofercie coraz większej liczby dostawców płatnej telewizji. Zapytaj swojego dostawcę, jeśli nie ma go na liście.',
     partnersLogo: false,
