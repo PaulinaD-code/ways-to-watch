@@ -210,7 +210,8 @@
   }
 
   .logos-6{
-      width: 400px;
+      max-width: 400px;
+      width: 100%;
       height: 404px;
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -218,6 +219,7 @@
       column-gap: 1px;
       row-gap: 1px;
       margin: 0 auto;
+      box-sizing: border-box;
   }
   
   .logo6{
