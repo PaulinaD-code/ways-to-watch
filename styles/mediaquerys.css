@@ -165,9 +165,16 @@
 
   .extra--offer{
       display: flex;
+      flex-direction: column;
+      align-items: center;
       margin: 1em 0;
   }
 
+  .netflix--recommended--desription{
+    align-items: center;
+  }
+
+ 
   .offer-advertisement-10{
       display: flex;
       flex-direction: column;
@@ -216,7 +223,7 @@
       width: 40%;
       height: auto;
   }
-  
+
   .logos-6{
       max-width: 400px;
       width: 100%;
