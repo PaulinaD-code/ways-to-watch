@@ -70,7 +70,7 @@ export const waysToWatch = [
             </div>
             <div class="extra--offer">
               <div class="netflix--recommended">
-                <img src="../img1/wayTowatch-icons/nrtv.webp" class="recommended--img" />
+                <img src="wayTowatch-icons/nrtv.webp" class="recommended--img" />
             </div>
             <div class="netflix--recommended--desription">
               <div class="netflix--description">Chcesz mieć telewizor Smart TV stworzony z myślą o serwisie Netflix? Szukaj telewizorów z logo „Telewizor polecany przez Netflix”.</div>
