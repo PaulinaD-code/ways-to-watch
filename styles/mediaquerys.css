@@ -179,6 +179,7 @@
   
   .offers--logo{
       margin: 0 auto;
+      box-sizing: border-box;
   }
 
   .logos-10{
